@@ -1,0 +1,14 @@
+A,6,10,20.0;
+B,0,8,30.0;
+C,10,8,25.0;
+D,0,5,25.0;
+E,6,0,20.0;
+F,10,0,22.0;
+A,B,2.0,Highway,T;
+A,C,8.0,First Class,T;
+B,C,5.0,First Class,T;
+B,D,3.0,Highway,T;
+B,F,11.0,First Class,T;
+C,F,4.0,Highway,T;
+C,E,1.0,Highway,T;
+E,F,7.0,First Class,T;
